@@ -14,14 +14,4 @@ ini</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </
 ```
 ###### Run
 ```bash
-> node . [<session name>] (session name is optional)
-``
-</s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> </s> orang </s>
----------
-
-
-
-
-
-
-
+> simpul. [<nama sesi>] (nama sesi adalah opsional)
